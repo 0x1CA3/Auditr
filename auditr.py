@@ -24,7 +24,6 @@ banner = f"""
         {Fore.YELLOW}|       ||  |  |  _  |  |   _|   _| {Fore.RESET}
         {Fore.YELLOW}|___|___||_____|_____|__|____|__|   {Fore.RESET}                       
         {Fore.YELLOW}[Made by: https://github.com/0x1CA3]{Fore.RESET}
-
 """
 
 class Auditr:
