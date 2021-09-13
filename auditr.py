@@ -38,8 +38,8 @@ class Auditr:
         "memset_s(": "memset(",
         "vsnprintf(": "vsprintf(",
         "sscanf_s(": "scanf(",
-        "sscanf_s(": "sscanf",
-        "_snscanf_s(": "snscanf",
+        "sscanf_s(": "sscanf(",
+        "_snscanf_s(": "snscanf(",
         "strlen_s(": "strlen(",
         "fread(": "read("
     }
