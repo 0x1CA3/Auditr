@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="https://www.pngkit.com/png/full/937-9371959_radar-png-radar-icon-png.png" width="150px"><br>
-    Auditr - A utility for auditing C code for vulnerabilities.
+    Auditr - A utility for auditing C code.
 </h1>
 <p align="center">
 	Auditr is a utility that checks for a variety of vulnerabilities in C code.
