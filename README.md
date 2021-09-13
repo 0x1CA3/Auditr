@@ -17,6 +17,9 @@ pip3 install colorama
 python3 auditr.py <file>
 ```
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/86132648/133115795-f34eebfa-c187-4e1e-aca5-7b6de226b39c.png)
+
 ## Credits
 ```
 https://github.com/0x1CA3
