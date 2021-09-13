@@ -18,6 +18,7 @@ python3 auditr.py <file>
 ```
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/86132648/133116104-16878c42-43f2-419b-a6c5-92fc5d3dfd34.png)
 
 ## Credits
 ```
