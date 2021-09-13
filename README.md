@@ -11,6 +11,12 @@
     	<img src="https://img.shields.io/badge/Version-1.0.0-7DCDE3?style=for-the-badge" alt="Version">
 </p>
   
+## Installation & Usage
+```
+pip3 install colorama
+python3 auditr.py <file>
+```
+
 ## Credits
 ```
 https://github.com/0x1CA3
