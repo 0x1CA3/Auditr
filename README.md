@@ -26,7 +26,7 @@ python3 auditr.py --option <file>
 ```
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/86132648/133116104-16878c42-43f2-419b-a6c5-92fc5d3dfd34.png)
+![image](https://user-images.githubusercontent.com/86132648/137512084-636f2725-a87a-4b16-9a8d-5f05651d3610.png)
 
 ## Credits
 ```
