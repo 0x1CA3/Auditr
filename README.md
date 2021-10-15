@@ -10,11 +10,18 @@
 	<a href="https://deno.land" target="_blank">
     	<img src="https://img.shields.io/badge/Version-1.0.0-7DCDE3?style=for-the-badge" alt="Version">
 </p>
-  
+
+## Features
+Feature  | Description
+-------- | -----------
+Variable Usage | Auditr allows you to scan for any variables that are possibly being used in a vulnerable or unsafe way.
+Variable Scanning | Auditr allows you to scan for any variables that are used throughout the source-code.
+Vulnerable Function Scanning | Auditr allows you to scan for common vulnerable functions.
+
 ## Installation & Usage
 ```
 pip3 install colorama
-python3 auditr.py <file>
+python3 auditr.py --option <file>
 ```
 
 ## Screenshots
