@@ -1,4 +1,5 @@
 re = __import__("re")
+time = __import__("time")
 from colorama import Fore
 
 
@@ -14,7 +15,7 @@ class VariableUsage(object):
         self.target = target
 
     @classmethod
-    def var_usage_check(cls, i: int, line:str) -> None:
+    def var_usage_check(cls, i: int, line: str) -> None:
         func_list = [
             "gets(",
             "read(",
@@ -57,6 +58,9 @@ class VariableUsage(object):
                 var_list.append(new)
 
     def scan(self) -> None:
+        print("\t[Scanning for vulnerabilties...]")
+        print("\t--------------------------------")
+        time.sleep(3)
         filename = open(self.target, "r")
         file_data = filename.readlines()
         for line in file_data:

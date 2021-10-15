@@ -30,6 +30,7 @@ class GetVars(object):
 
     def read_data(self) -> None:
         print("\t[Scanning for variables...]")
+        print("\t---------------------------")
         time.sleep(3)
         filename = open(self.target, "r")
         file_data = filename.readlines()
