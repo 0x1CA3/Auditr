@@ -16,7 +16,7 @@ Feature  | Description
 -------- | -----------
 Variable Usage | Auditr allows you to scan for any variables that are possibly being used in a vulnerable or unsafe way.
 Variable Scanning | Auditr allows you to scan for any variables that are used throughout the source-code.
-Full Security Audit | Auditr gives you the option to scan for every possible security vulnerability.
+Full Security Audit | Auditr gives you the option to scan for every vulnerability that is supported.
 Vulnerable Function Scanning | Auditr allows you to scan for common vulnerable functions.
 
 ## Installation & Usage
